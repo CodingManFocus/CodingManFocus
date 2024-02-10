@@ -1,16 +1,13 @@
-### Hi there 👋
+**Hello! My name is CodingManFocus** 
 
-<!--
-**CodingManFocus/CodingManFocus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the Leader and Programmer of CodenameMC
+@CodenameMC
 
-Here are some ideas to get you started:
+I use Java often
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am making Minecraft stuffs
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,python,lua" />
+  </a>
+</p>
