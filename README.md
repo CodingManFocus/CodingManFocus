@@ -7,7 +7,7 @@
 
 **I am making Minecraft stuffs!**
 
-![]https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png
+![](https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
