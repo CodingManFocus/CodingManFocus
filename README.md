@@ -3,9 +3,7 @@
 **I am the Leader and Programmer of CodenameMC**
 @CodenameMC
 
-**I use Java often**
-
-**I am making Minecraft stuffs!**
+**I am making Minecraft stuffs**
 
 ![](https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png)
 <p align="center">
