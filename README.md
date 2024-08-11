@@ -8,6 +8,6 @@
 ![](https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,react,nodejs" />
   </a>
 </p>
