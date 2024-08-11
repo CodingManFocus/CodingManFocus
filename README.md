@@ -6,7 +6,20 @@
 
 저는 CodenameMC의 리더이자 프로그래머 입니다
 
+
+
 ![](https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png)
+
+**IDE**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=intellij," />
+  </a>
+</p>
+
+**Language/Framework/Engine**
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,haxeflixel,html,css,react,nodejs" />
