@@ -18,10 +18,10 @@
   </a>
 </p>
 
-**Language/Framework/Engine**
+**Language**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,haxeflixel,html,css,react,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript" />
   </a>
 </p>
