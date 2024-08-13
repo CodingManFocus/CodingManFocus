@@ -18,6 +18,22 @@
   </a>
 </p>
 
+**Markup**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=md,html,css" />
+  </a>
+</p>
+
+**Game Engine**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=haxeflixel,godot,love2d" />
+  </a>
+</p>
+
 **Language**
 
 <p align="center">
