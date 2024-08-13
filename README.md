@@ -41,3 +41,12 @@
     <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,lua,haxe" />
   </a>
 </p>
+
+
+**Others**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react, node,vercel,netlify" />
+  </a>
+</p>
