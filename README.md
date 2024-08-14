@@ -6,9 +6,7 @@
 
 저는 CodenameMC의 리더이자 프로그래머 입니다
 
-
-
-![](https://raw.githubusercontent.com/CodingManFocus/CodingManFocus/main/CodenameMC.png)
+![](https://github.com/CodingManFocus/codenamemc_web/blob/main/public%2Fassets%2Fimages%2Fbanner.png)
 
 **IDE**
 
