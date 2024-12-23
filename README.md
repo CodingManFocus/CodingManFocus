@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=haxeflixel,godot,robloxstudio" />
+    <img src="https://skillicons.dev/icons?i=haxeflixel,robloxstudio" />
   </a>
 </p>
 
