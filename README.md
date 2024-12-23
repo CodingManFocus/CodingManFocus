@@ -5,7 +5,6 @@
 안녕하세요! 저는 CodingManFocus입니다!
 
 저는 CodenameMC의 리더이자 프로그래머 입니다
--# (솔직하게 말하면 그냥 눈이 가는 것만 개발하는 스타일입니다)
 
 부계정 -> @AnotherFocus
 
