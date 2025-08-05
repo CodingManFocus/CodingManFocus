@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,lua,haxe" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,python,cpp,javascript,lua,haxe" />
   </a>
 </p>
 
